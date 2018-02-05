@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jadwal Kuliah</string>
+
+    <string name="nama_matkul">Nama Matkul</string>
+    <string name="jam_mulai">Jam Mulai</string>
+    <string name="hari">Hari</string>
+    <string name="kode_ruangan">Kode Ruangan</string>
+    <string name="nama_dosen">Nama Dosen</string>
+    <string name="no_hp_dosen">Nomor HP Dosen</string>
+    <string name="catatan">Catatan</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="save">SAVE</string>
+    <string name="reset">RESET</string>
+</resources>
